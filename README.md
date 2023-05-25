@@ -16,12 +16,12 @@ The game is based on a 2D map consisting of 2 worlds, each divided into zones, e
 Once a chosen game file is loaded, a map grid showing the current location will be printed. There is a user interface below the map with 8 options (with a unique command character), namely move up ('w'), move left ('a'), move down ('s'), move right ('d'), interact ('x'), help ('h'), save ('z') and quit ('q'). Every time the user can choose an option to execute, if the map settings allow.\
 \
 A useful helper is there to guide Donkey throughout the journey. The helper first gives an introduction to the storyline and hints Donkey if anything happens on the grid. The helper can also list all the current information if asked by the user (using command 'h').\
-\
+
 ## Game Rules
 By default, The map has 2 worlds. Donkey has 3 lives from the start. Donkey and all enemies / bosses have stats such as health (HP), attack power (POW), critical (CRT) chance, dodge chance and tools. When facing enemies, Donkey can choose to attack ('a') or use tools ('t'), the tools have special power-ups such as counter-attack or health boosts. Timed text messages will appear to indicate any actions from either side. If the enemy dies, Donkey gets a random stat boost. If he dies in any way (HP <= 0), e.g. enemies, bosses, spikes, he will lose a life and respawn in the top left corner of Zone A of the current world he is in. If he loses all his life, it will be game over, and all data of the game file will be deleted.\
 \
 The user can enter a char command one by one each time. The user can also enter a string of command characters in a single line of input in order to save time, but only moving options ('w'/'a'/'s'/'d') and interact ('x') are allowed. If a command character is invalid (e.g. interact ('x') a coordinate with nothing, move towards a barrier " X "), or if the execution of a command character triggers any game setting, (e.g. interact ('x') a treasure / question mark, move towards an enemy / spike), characters following the command on the same line will be ignored (cin ignore).\
-\
+
 ## List of Implemented Features
 
 #### 1. Three different save files
