@@ -1,5 +1,6 @@
 # Very First Game Project
 It is a text-based RPG project coded in Year 1.
+Problems: Considerable amount of hard code, Bad variable naming, Excessive game randomness
 
 ## Group Members
 Kwok Chun Shek Wally\
