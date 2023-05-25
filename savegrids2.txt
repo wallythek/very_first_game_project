@@ -1,0 +1,115 @@
+ENGG13 1 82 54 40 18 48 51
+HP boost +33
+HP boost +42
+HP boost +44
+dodge 100% & counter
+dodge 100% & counter
+dodge 92% & counter
+full HP
+full HP
+full HP
+
+A1
+ X   X   X   X   X   X   X   X   X   X   X   X  
+ X   #   #   X   X   X   X   X   X   X   X   X  
+ X   #   #   #   X   X   X   X   X   X   X   X  
+ X   X   #   #   #   #   #   #   #   #   #   X  
+ X   X   X   #   #   #   #   #   #   #   #  ->B 
+ X   X   X   #   #   #   #   #   #   #   #  ->B 
+ X   X   X   #   #   #   #   #   #   #   #   X  
+ X   X   X   #   #   #   #   #   #   #   X   X  
+ X   X   X   #   #   #   #   #   #   X   #   X  
+ X   X   X   #   #   #   #   #   X   #   #   X  
+ X   X   X   #   #   #   #   X   #   #   #   X  
+ X   X   X   X   X   X   X   X   X   X  ↓↓D  X  
+A2
+ X  ⇞W1  X   X   X   X   X   X   X   X   X   X  
+ X   #   X   X   X   X   X   X   X   #   #   X  
+ X   #   X   X   X   X   X   X   #   #   #   X  
+ X   #   X   X   X   X   X   #   #   #   #   X  
+ X   #   X   X   X   X   #  !!!  #   #   #   X  
+ X   #   X   X   X   #   T   #   X   X   #   X  
+ X   #   X   X   #  !!!  #   X   X   X   #   X  
+ X   #   #   #   T   #   X   X   X   X   #   X  
+ X   #   #   ♀   #   X   X   X   X   X   #   X  
+ X   #   #   #   X   X   X   X   X   X   #   X  
+ X   #   #   X   X   X   X   X   X   X   #   X  
+ X   X   X   X   X   X   X   X   X   X  ↓↓B  X  
+B1
+ X   X   X   X   X   X   X   X   X   X   X   X  
+ X   #   #   X   X   X   X   X   X   #   #   X  
+ X   #   #   #   X   X   X   X   #   #   #   X  
+ X   X   #   #   #   X   X   #   #   #   X   X  
+ X   X   X   #   #   #   #   #   #   X   X   X  
+ X   X   X   X   #  ^^^ ^^^  #   X   X   X   X  
+ X   X   X   X   #  ^^^ ^^^  #   X   X   X   X  
+ X   X   X   #   #   #   #   #   #   X   X   X  
+ X   X   #   #   #   X   X   #   #   #   X   X  
+<-A  #   #   #   X   X   X   X   #   #   #   X  
+<-A  #   #   X   X   X   X   X   X   #   #   X  
+ X   X   X   X   X   X   X   X   X  ↓↓C ↓↓C  X  
+C1
+ X  ↑↑B ↑↑B  X   X   X   X   X   X   X   X   X  
+ X   #   #   #   X   X   X   X  ^^^  X   X   X  
+ X  ^^^  #   #   #   X   X  ^^^  ?  ^^^  X   X  
+ X   X   #   #   #   #   #  ^^^  T   #  ^^^  X  
+ X   X   #   #   #   #   #   #  ^^^  #   X   X  
+ X   X   #   #   #   #   #   #   #   #   X   X  
+ X   X   #   #   #   #   #   #   #   #   X   X  
+<-D  #  ^^^  #   #   #   #   #   #   #   X   X  
+<-D  #   #   #   #   #   #   #   #   X   X   X  
+ X  ^^^ ^^^  #   #   #   #   #   X   X   X   X  
+ X  ^^^ ^^^ ^^^  #   #  !!!  X   X   X   X   X  
+ X   X   X   X   X   X   X   X   X   X   X   X  
+C2
+ X   X   X   X   X   X   X   X   X  ↑↑B ↑↑B  X  
+ X   #   #   #   #   #   #   #   #   #   #   X  
+ X   #   #   X   #   #   #   #   X   #   #   X  
+ X   #   X   ?   X   #   #   X   ?   X   #   X  
+ X   #   #   X   #   #   #   #   X   #   #   X  
+ X   #   #   #   #   #   #   #   #   #   #   X  
+ X   #   #   #   #   #   #   #   #   #   #   X  
+ X   #   #   X   #   #   #   #   X   #   #   X  
+ X   #   X   ?   X   #   #   X   ?   X   #   X  
+ X   #   #   X   #   #   #   #   X   #   #   X  
+ X   ?   #   #   #   #   #   #   #   #   #   X  
+ X   X   X   X   X   X   X   X   X   X   X   X  
+D1
+ X   X  ↑↑A  X   X   X   X   X   X   X   X   X  
+ X  ^^^  #  ^^^ ^^^ ^^^ ^^^  #   #   #   #   X  
+ X   #   #   #   #   #  ^^^  #  ^^^ ^^^  #  ->C 
+ X  ^^^ ^^^ ^^^ ^^^  #   #   #   #  ^^^  #  ->C 
+ X  ^^^ ^^^  #   #   #  ^^^ ^^^  #   #  ^^^  X  
+ X   #   #   #  ^^^  #  ^^^ ^^^ ^^^  #   #   X  
+ X   #  ^^^ ^^^ ^^^  #   #  ^^^ ^^^ ^^^  #   X  
+ X   #   ?   #   #  ^^^  #   #   #  ^^^  #   X  
+ X   #  ^^^ ^^^  #   #   #  ^^^ ^^^ ^^^  #   X  
+ X   #   #  ^^^ ^^^ ^^^ ^^^  #   #   #   #   X  
+ X  ^^^  #  ^^^ ^^^ ^^^ ^^^  #  ^^^ ^^^ ^^^  X  
+ X   X  ↓↓E  X   X   X   X  ↓↓F  X   X   X   X  
+E1
+ X   X   X   X   X   X   X   X   X   X  ↑↑D  X  
+ X   #   #   #  ^^^  X   #   #   #   #   #   X  
+ X   #  ^^^  #   #   X   #  ^^^  #   #   #   X  
+ X   #  ^^^  #   #   #   #   #  ^^^  #   #   X  
+ X   #   X  ^^^  #   #   #   #   #  ^^^  #   X  
+ X   #   X   X   X   X   X   X   X  ^^^  #   X  
+ X   #   #   #   #  ^^^ ^^^ ^^^  #   #   #   X  
+ X  ^^^ ^^^  #   #   #  ^^^ ^^^  #  ^^^ ^^^  X  
+ X   #   #  ^^^  #   #  ^^^ ^^^  #   #  ^^^  X  
+ X   #   #   #   #  ^^^ ^^^  #   #   #  ^^^  X  
+ X   #   #  ^^^ ^^^  #   #   #   #  ^^^ ^^^  X  
+ X   X   X   X   X   X   X   X   X   X   X   X  
+F1
+ X   X  ↑↑D  X   X   X   X   X   X   X   X   X  
+ X   #   #   #  ^^^  #   #   #   #   #   #   X  
+ X   #   #   #  ^^^  #   #   #   #   #   #   X  
+ X   #   #   #  ^^^  #   #   #   #   #   #   X  
+ X   #   #   #  ^^^ ^^^ ^^^ ^^^  #   #   #   X  
+ X   #   #   #   #   #   #   #   #   #   #   X  
+ X   #   #   #   #   #   #   #   #   #   #   X  
+ X   #   #   #  ^^^ ^^^ ^^^ ^^^  #   #   #   X  
+ X   #   #   #  ^^^  #   #   #   #   #   #   X  
+ X   #   #   #  ^^^  #   #   #   #   #   #   X  
+ X   #   #   #  ^^^  #   #   #   #   #   #   X  
+ X   X   X   X   X   X   X   X   X   #   X   X  
