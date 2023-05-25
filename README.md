@@ -2,7 +2,7 @@
 It is a text-based RPG project coded in Year 1.
 
 ## Group Members
-Kwok Chun Shek Wally
+Kwok Chun Shek Wally\
 Shum Ho Yeung Andrew
 
 ## Game Concept
